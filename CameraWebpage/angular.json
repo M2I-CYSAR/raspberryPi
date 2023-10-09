@@ -60,12 +60,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "CameraWebpage:build:production",
-              "proxyConfig": "src/proxy.conf.json"
+              "browserTarget": "CameraWebpage:build:production"
             },
             "development": {
-              "browserTarget": "CameraWebpage:build:development",
-              "proxyConfig": "src/proxy.conf.json"
+              "browserTarget": "CameraWebpage:build:development"
             }
           },
           "defaultConfiguration": "development"
