@@ -1,3 +1,3 @@
 # raspberryPi
 ## Description
-This repository has been deprecated and repaced by WebGUI.
+This repository has been deprecated and replaced by WebGUI.
